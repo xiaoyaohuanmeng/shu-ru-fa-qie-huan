@@ -12,9 +12,9 @@
 GroupAdd,cn,ahk_exe QQ.exe  ;QQ
 GroupAdd,cn,ahk_exe WINWORD.EXE ;word
 GroupAdd,cn,ahk_exe wps.exe ;wps
-GroupAdd,cn,ahk_exe chrom.exe 
-GroupAdd,cn,ahk_exe WeChat.exe
-GroupAdd,cn,ahk_exe acad.exe
+GroupAdd,cn,ahk_exe chrome.exe  ;谷歌浏览器
+GroupAdd,cn,ahk_exe WeChat.exe  ；微信
+GroupAdd,cn,ahk_exe acad.exe  ；CAD
 GroupAdd,cn,ahk_exe MindManager.exe
 
 
@@ -28,7 +28,7 @@ GroupAdd,en,ahk_class Listary_WidgetWin_0
 ;窗口切换时，切换到中文输入法
 GroupAdd,cn32772,ahk_exe QQ.exe  ;QQ
 GroupAdd,cn32772,ahk_exe WeChat.exe ;微信
-GroupAdd,cn32772,ahk_exe chrom.exe
+GroupAdd,cn32772,ahk_exe chrome.exe
 GroupAdd,cn32772,ahk_exe acad.exe
 ;窗口切换时，切换到英文输入法
 GroupAdd,en32772,ahk_class Listary_WidgetWin_0
