@@ -1,1 +1,2 @@
-# 本项目为根据https://github.com/lspcieee/lspcieee_ahk 更改
+# 本项目为根据别的项目更改
+# 详见https://github.com/lspcieee/lspcieee_ahk
